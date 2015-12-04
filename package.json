@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-mohayonao",
+  "description": "mohayonao's ESLint config",
+  "version": "0.0.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mohayonao/eslint-config-mohayonao/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "package.json",
+    "index.js",
+    "legacy.js",
+    "rules",
+    "README.md"
+  ],
+  "homepage": "http://mohayonao.github.io/eslint-config-mohayonao/",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mohayonao/eslint-config-mohayonao.git"
+  },
+  "scripts": {}
+}
