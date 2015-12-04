@@ -7,7 +7,9 @@
     "url": "https://github.com/mohayonao/eslint-config-mohayonao/issues"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  },
   "files": [
     "package.json",
     "index.js",
@@ -26,5 +28,7 @@
     "type": "git",
     "url": "git://github.com/mohayonao/eslint-config-mohayonao.git"
   },
-  "scripts": {}
+  "scripts": {
+    "lint": "eslint examples"
+  }
 }
